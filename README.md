@@ -13,6 +13,7 @@ Scripts: Useful scripts for various DevOps tasks.
 Resources: Additional reading materials, links, and references.
 
 Topics Covered
+
 1, Introduction to DevOps
 DevOps principles and culture
 Benefits of DevOps
