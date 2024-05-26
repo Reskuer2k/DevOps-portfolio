@@ -39,7 +39,7 @@ Setting up alerts and dashboards
 
 How to Use This Repository
 1, Clone the Repository:
-git clone https://reskuer2k/devops-bootcamp.git
+git clone https://reskuer2k/DevOps-portfolio
 cd devops-bootcamp
 2,Navigate Through the Folders:
 Each folder is organized by topic and contains relevant materials and resources.
