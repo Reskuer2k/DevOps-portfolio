@@ -39,17 +39,22 @@ Tools like Prometheus, Grafana, ELK stack
 Setting up alerts and dashboards
 
 How to Use This Repository
+
 1, Clone the Repository:
 git clone https://reskuer2k/DevOps-portfolio
 cd devops-bootcamp
+
 2,Navigate Through the Folders:
 Each folder is organized by topic and contains relevant materials and resources.
+
 3, Follow Along:
 Use the notes and assignments to follow along with the bootcamp sessions. Refer to the scripts and projects to apply what you’ve learned.
+
 4, Contribute:
 Feel free to fork this repository, contribute your own notes, or submit pull requests with improvements and additional resources.
 
-Contact
+Contact:
+
 If you have any questions or need further assistance, please feel free to reach out to me via admin@nasak.cloud or open an issue in this repository.
 
 Happy learning!
